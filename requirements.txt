@@ -1,2 +1,2 @@
 pyelftools>=0.29
-python-tlsh>=4.7.2; platform_system != "Windows"
+python-tlsh>=4.5.0; platform_system != "Windows"
